@@ -1,0 +1,6 @@
+PRJ deva-pdf
+S src
+
+PKG oUnit
+
+B _build/src
